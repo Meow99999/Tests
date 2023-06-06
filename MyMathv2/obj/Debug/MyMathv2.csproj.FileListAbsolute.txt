@@ -1,0 +1,6 @@
+C:\Users\IMac6\source\repos\NPDP\MyMathv2\bin\Debug\MyMathv2.dll
+C:\Users\IMac6\source\repos\NPDP\MyMathv2\bin\Debug\MyMathv2.pdb
+C:\Users\IMac6\source\repos\NPDP\MyMathv2\obj\Debug\MyMathv2.csproj.AssemblyReference.cache
+C:\Users\IMac6\source\repos\NPDP\MyMathv2\obj\Debug\MyMathv2.csproj.CoreCompileInputs.cache
+C:\Users\IMac6\source\repos\NPDP\MyMathv2\obj\Debug\MyMathv2.dll
+C:\Users\IMac6\source\repos\NPDP\MyMathv2\obj\Debug\MyMathv2.pdb

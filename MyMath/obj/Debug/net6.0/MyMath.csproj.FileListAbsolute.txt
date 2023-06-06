@@ -1,0 +1,5 @@
+C:\Users\IMac6\source\repos\NPDP\MyMath\obj\Debug\net6.0\MyMath.csproj.AssemblyReference.cache
+C:\Users\IMac6\source\repos\NPDP\MyMath\obj\Debug\net6.0\MyMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMac6\source\repos\NPDP\MyMath\obj\Debug\net6.0\MyMath.AssemblyInfoInputs.cache
+C:\Users\IMac6\source\repos\NPDP\MyMath\obj\Debug\net6.0\MyMath.AssemblyInfo.cs
+C:\Users\IMac6\source\repos\NPDP\MyMath\obj\Debug\net6.0\MyMath.csproj.CoreCompileInputs.cache

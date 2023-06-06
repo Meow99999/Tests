@@ -1,0 +1,11 @@
+C:\Users\IMac6\source\repos\NPDP\NPDP\bin\Debug\NPDP.exe.config
+C:\Users\IMac6\source\repos\NPDP\NPDP\bin\Debug\NPDP.exe
+C:\Users\IMac6\source\repos\NPDP\NPDP\bin\Debug\NPDP.pdb
+C:\Users\IMac6\source\repos\NPDP\NPDP\bin\Debug\MyMathv2.dll
+C:\Users\IMac6\source\repos\NPDP\NPDP\bin\Debug\MyMathv2.pdb
+C:\Users\IMac6\source\repos\NPDP\NPDP\obj\Debug\NPDP.csproj.AssemblyReference.cache
+C:\Users\IMac6\source\repos\NPDP\NPDP\obj\Debug\NPDP.csproj.SuggestedBindingRedirects.cache
+C:\Users\IMac6\source\repos\NPDP\NPDP\obj\Debug\NPDP.csproj.CoreCompileInputs.cache
+C:\Users\IMac6\source\repos\NPDP\NPDP\obj\Debug\NPDP.csproj.CopyComplete
+C:\Users\IMac6\source\repos\NPDP\NPDP\obj\Debug\NPDP.exe
+C:\Users\IMac6\source\repos\NPDP\NPDP\obj\Debug\NPDP.pdb
